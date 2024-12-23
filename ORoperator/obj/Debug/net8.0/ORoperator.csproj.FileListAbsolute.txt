@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\bin\Debug\net8.0\ORoperator.exe
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\bin\Debug\net8.0\ORoperator.deps.json
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\bin\Debug\net8.0\ORoperator.runtimeconfig.json
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\bin\Debug\net8.0\ORoperator.dll
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\bin\Debug\net8.0\ORoperator.pdb
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\obj\Debug\net8.0\ORoperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\obj\Debug\net8.0\ORoperator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\obj\Debug\net8.0\ORoperator.AssemblyInfo.cs
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\obj\Debug\net8.0\ORoperator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\obj\Debug\net8.0\ORoperator.dll
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\obj\Debug\net8.0\refint\ORoperator.dll
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\obj\Debug\net8.0\ORoperator.pdb
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\obj\Debug\net8.0\ORoperator.genruntimeconfig.cache
+C:\Users\User\source\repos\Week5LogicalOperators\ORoperator\obj\Debug\net8.0\ref\ORoperator.dll
